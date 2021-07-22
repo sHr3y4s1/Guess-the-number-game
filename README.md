@@ -1,2 +1,2 @@
 # Guess-the-number-game
-Number guessing game coded in python
+Number guessing game coded in Python.
